@@ -1,0 +1,19 @@
+Variable,WT Mean,WT SD,WT N,VPA Mean,VPA SD,VPA N,p-value,Significance
+Biological Replicate,2.091,0.944,11,1.909,0.831,11,0.6369,n.s.
+MouseID,13.909,6.488,11,9.091,5.804,11,0.0815,n.s.
+SI Time with stranger (s),283.091,88.171,11,173.636,65.962,11,0.0039,**
+SI Visit Ratio to Stranger (%),0.623,0.110,11,0.622,0.057,11,0.9873,n.s.
+SI Total Distance (cm),2342.901,490.260,11,2226.541,497.974,11,0.5869,n.s.
+SI Moving Speed (cm s-1),10.565,1.266,11,9.746,0.894,11,0.0971,n.s.
+YM Re-entry Ratio,6.516,6.073,11,18.130,17.247,11,0.0561,n.s.
+YM Alternation Rate,63.254,16.502,11,49.856,18.896,11,0.0921,n.s.
+YM Total Distance (cm),1556.276,301.269,11,1302.222,259.431,11,0.0471,*
+YM Moving Speed (cm s-1),8.856,1.061,11,8.228,1.035,11,0.1752,n.s.
+YM Center Region Time (s),120.136,32.094,11,118.773,24.839,11,0.9124,n.s.
+EPM Open Arm Time (%),8.084,5.297,11,13.054,4.941,11,0.0341,*
+EPM Open Arm Entries (%),34.568,10.609,11,41.741,5.337,11,0.0639,n.s.
+OF Center Region (%),10.710,3.977,11,14.393,3.027,11,0.0246,*
+OF Total Distance (cm),6439.895,2045.898,11,7315.624,1640.370,11,0.2818,n.s.
+OF Total Movement Duration (s),501.455,144.814,11,582.091,101.701,11,0.1481,n.s.
+OF Total Movement Episode No.,335.364,82.301,11,361.727,37.355,11,0.3498,n.s.
+OF Moving Speed (cm s-1),11.216,1.189,11,11.228,1.076,11,0.9808,n.s.
