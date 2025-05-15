@@ -34,12 +34,12 @@ Figure 3E,Directory (LoG_output),ei_heatmap.py,,The graphs are saved as eps file
 Figure 4A and B,pca_data.csv,pca_vector_projection_wt_vpa.py,"pca_data_pca_all_loading.csv
 pca_data_with_pc1_pc2.csv",The graph needs to be saved manually.
 Figure 4C and Figure 4?figure supplement 2A,pca_data.csv,pca_variable_correlation_plot.py,,The graphs are saved as eps files.
-Figure 4-figure supplement 1A,"depth vs YM alter.csv
-depth vs YM re-ent.csv
-depth_vs_of_center_region.csv
-depth_vs_of_total_distance.csv
-depth_vs_si_time_with_stranger.csv
-depth_vs_epm_open_arm_time.csv",depth_vs_behavior.py,"depth vs YM alter_r_and_p_values.csv
+Figure 4-figure supplement 1A,"depth vs YM alter.csv"
+"depth vs YM re-ent.csv"
+"depth_vs_of_center_region.csv"
+"depth_vs_of_total_distance.csv"
+"depth_vs_si_time_with_stranger.csv"
+"depth_vs_epm_open_arm_time.csv",depth_vs_behavior.py,"depth vs YM alter_r_and_p_values.csv
 depth vs YM re-ent_r_and_p_values.csv
 depth_vs_of_center_region_r_and_p_values.csv
 depth_vs_of_total_distance_r_and_p_values.csv
