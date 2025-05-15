@@ -52,8 +52,6 @@ You are free to use, modify, and redistribute the code with attribution.
 
 ### 🔹 Data (.csv)
 
-### 🔹 Data (.csv)
-
 The data files in this repository are associated with a manuscript currently under peer review.  
 These are shared solely for review or demonstration purposes.
 
