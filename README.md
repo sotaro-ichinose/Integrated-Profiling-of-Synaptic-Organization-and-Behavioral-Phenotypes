@@ -5,6 +5,8 @@ This repository contains scripts and supporting data for the analysis presented 
 **""**  
 *(Currently under peer review)*
 
+---
+
 ## Contents
 
 - `scripts_and_data/`:  
@@ -25,6 +27,8 @@ This repository contains scripts and supporting data for the analysis presented 
 - `LICENSE.md`:  
   MIT license for code, and CC BY 4.0 license for data.
 
+---
+
 ## How to Reproduce Figures
 
 To reproduce a figure:
@@ -35,6 +39,8 @@ To reproduce a figure:
 4. For supplemental figures, use scripts under `figureX/supplement/`
 
 Each figure's pipeline is self-contained. See `script_figure_mapping.csv` for a global index.
+
+---
 
 ## Script-Figure Mapping
 
