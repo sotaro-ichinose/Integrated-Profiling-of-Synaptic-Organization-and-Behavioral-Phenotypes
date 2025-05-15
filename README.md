@@ -52,12 +52,13 @@ You are free to use, modify, and redistribute the code with attribution.
 
 ### 🔹 Data (.csv)
 
-Processed data files included in this repository are shared under the  
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-Please cite the corresponding publication when using these data.
+### 🔹 Data (.csv)
 
-**Note:** Some data are associated with a manuscript currently under peer review.  
-If you require access to raw or restricted data, please contact the corresponding author.
+The data files in this repository are associated with a manuscript currently under peer review.  
+These are shared solely for review or demonstration purposes.
+
+**Note:** Redistribution or reuse of the data is not permitted until the manuscript is officially published.  
+Please contact the corresponding author for any data-related inquiries.
 
 ---
 
