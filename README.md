@@ -30,7 +30,7 @@ This repository contains scripts and supporting data for the analysis presented 
 To reproduce a figure:
 
 1. Navigate to `scripts_and_data/figureX/` (e.g., `figure3/`)
-2. Run the corresponding `.py` script using Python 3.9+
+2. Run the corresponding `.py` script using Python 3.10
 3. Input `.csv` files are included in the same directory
 4. For supplemental figures, use scripts under `figureX/supplement/`
 
