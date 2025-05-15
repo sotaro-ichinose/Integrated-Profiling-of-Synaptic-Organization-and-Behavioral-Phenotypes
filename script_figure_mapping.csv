@@ -1,5 +1,5 @@
 Figure Number or Results,Input File,Script Name,Output File,Description
-Results,,"epm_analysis.ijm \nepm_analysis.py \nepm_arm_entry.py",,Custom analysis pipeline for EPM.
+Results,,"epm_analysis.ijm epm_analysis.py epm_arm_entry.py",,Custom analysis pipeline for EPM.
 "Figure 1B-E
 Figure 1-figure supplement 1D-F",behavior.csv,behavior_plot.py,behavior_summary_stats.csv,The graphs are saved as png and eps files.
 Figure 2A Step1,Directory containing .nd2 files,meningeal_cleanup_macro.ijm,,"Use this ijm for nd2 files. If necessary, please perform additional filling or ROI selection."
