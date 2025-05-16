@@ -1,11 +1,11 @@
 Block Type,96well,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chemistry,SYBR_GREEN,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Experiment File Name,C:\Users\psota\Downloads\250515_Ichinose.eds,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment File Name,250515_Ichinose.eds,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Experiment Run End Time,Not Started,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Instrument Type,steponeplus,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Passive Reference,ROX,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Well,Sample Name,Target Name,Task,Reporter,Quencher,RQ,RQ Min,RQ Max,C„„,C„„ Mean,C„„ SD,ƒ¢C„„,ƒ¢C„„ Mean,ƒ¢C„„ SE,HK Control ƒ¢C„„ Mean,HK Control ƒ¢C„„ SE,ƒ¢ƒ¢C„„,Automatic Ct Threshold,Ct Threshold,Automatic Baseline,Baseline Start,Baseline End,Efficiency,Tm1,Tm2,Tm3,Comments,EXPFAIL
+Well,Sample Name,Target Name,Task,Reporter,Quencher,RQ,RQ Min,RQ Max,Câ€žâ€ž,Câ€žâ€ž Mean,Câ€žâ€ž SD,Æ’Â¢Câ€žâ€ž,Æ’Â¢Câ€žâ€ž Mean,Æ’Â¢Câ€žâ€ž SE,HK Control Æ’Â¢Câ€žâ€ž Mean,HK Control Æ’Â¢Câ€žâ€ž SE,Æ’Â¢Æ’Â¢Câ€žâ€ž,Automatic Ct Threshold,Ct Threshold,Automatic Baseline,Baseline Start,Baseline End,Efficiency,Tm1,Tm2,Tm3,Comments,EXPFAIL
 A1,WT1,Actb,UNKNOWN,SYBR,None,,,,27.28214645,27.1905117,0.081704117,,,,,,,TRUE,0.407050961,TRUE,3,20,1,84.37879944,,,,N
 A2,WT1,Actb,UNKNOWN,SYBR,None,,,,27.1252594,27.1905117,0.081704117,,,,,,,TRUE,0.407050961,TRUE,3,20,1,84.37879944,,,,N
 A3,WT1,Actb,UNKNOWN,SYBR,None,,,,27.16412354,27.1905117,0.081704117,,,,,,,TRUE,0.407050961,TRUE,3,20,1,84.37782288,,,,N
