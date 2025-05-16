@@ -1,8 +1,8 @@
-#  – Analysis Scripts and Data
+# Analysis Scripts and Data
 
 This repository contains scripts and supporting data for the analysis presented in the manuscript:
 
-**""**  
+**"Integrated Profiling of Synaptic E/I Balance Reveals Circuit Disruption and Phenotypic Variability in a Prenatal ASD Model"**  
 *(Currently under peer review)*
 
 ---
