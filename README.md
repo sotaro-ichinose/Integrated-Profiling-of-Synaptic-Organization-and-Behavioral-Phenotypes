@@ -2,7 +2,7 @@
 
 This repository contains scripts and supporting data for the analysis presented in the manuscript:
 
-**"Integrated Profiling of Synaptic E/I Balance Reveals Structural Alteration and Phenotypic Variability in a Prenatal ASD Model"**  
+**"Integrated Profiling of Synaptic E/I Balance Reveals Altered Synaptic Organization and Phenotypic Variability in a Prenatal ASD Model"**  
 *(Currently under peer review)*
 
 ---
