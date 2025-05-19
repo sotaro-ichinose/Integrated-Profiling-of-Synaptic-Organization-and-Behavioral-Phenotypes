@@ -9,8 +9,8 @@ Figure 2A Step2,Directory (WT or VPA) containing 2ch tif files,histogram_match_b
 Figure 2A Step3,Directory (histogram_matched),laplacian_of_gaussian_filtering.py,Directory (LoG_output),TIF files are saved as '_LoG.tif.' in the 'LoG_output' directory.
 Figure 2A Step4,Directory (LoG_output),block_wise_particle_analysis.py,Directory (Image Name),CSV files are saved as 'Image Name_analyze_particles_ch1 (or ch2).csv.' in the 'Image Name' directory.
 Figure 2A Step5,Directory (LoG_output),collect_image_dimensions.py,image_dimensions.csv,
-Figure 2A Step6,Directory (LoG_output),heatmap_generation.py,(Maps) .tif,"Maps of synaptic density, area, and E/I balance are saved in the corresponding 혖eImage Name혖f directory."
-Figure 2A Step7,Directory (Image Name),perspective_and_log.py,(Quantification data) .csv,"CSV files containing synaptic density, area, and E/I balance quantification are saved in the corresponding 혖eImage Name혖f directory."
+Figure 2A Step6,Directory (LoG_output),heatmap_generation.py,(Maps) .tif,"Maps of synaptic density, area, and E/I balance are saved in the corresponding 갻Image Name갽 directory."
+Figure 2A Step7,Directory (Image Name),perspective_and_log.py,(Quantification data) .csv,"CSV files containing synaptic density, area, and E/I balance quantification are saved in the corresponding 갻Image Name갽 directory."
 Figure 2A Step8,Directory (LoG_output),synapse_summary.py,(Summaries) .csv,"Data for each synaptic variable are aggregated, and the mean, standard deviation, and p-value are calculated.
 (Note: to compute the p-values, WT and VPA data must be placed together in the same folder beforehand.)"
 Figure 2C,TIF file,orientation_analysis.py,,The graph needs to be saved manually.
@@ -82,6 +82,7 @@ Figure 5-figure supplement 1E,pca_exercise_data.csv,compute_pca_from_controls.py
 Figure 5-figure supplement 1F,pca_exercise_data.csv,recompute_pca_on_all_samples.py,"pca_exercise_data_pca_all_loadings.csv
 pca_exercise_data_pca_all_scores.csv",The graphs are saved as png and eps files.
 Figure 5-figure supplement 1G,pca_exercise_data.csv,pca_with_bootstrapped_ci.py,pca_exercise_data_bootstrap_centroid.csv,The graph needs to be saved manually.
-Appendix 4-table 1 and 2,pca_exercise_data.csv,hotellings_t2_test.py,"hotelling_WT Control_vs_WT Exercise.csv
+Appendix 4?table 1 and 2,pca_exercise_data.csv,hotellings_t2_test.py,"hotelling_WT Control_vs_WT Exercise.csv
 hotelling_VPA Control_vs_VPA Exercise.csv",
-Figure 5-figure supplement 1H,,power_analysis.py,,The graph needs to be saved manually.
+Figure 5-figure supplement 1H,,"power_analysis.py
+power_analysis_vpa_exercise.py",,The graph needs to be saved manually.
