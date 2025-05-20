@@ -81,6 +81,7 @@ exercise_eibalance_p_q.csv","""E/I balance: $\log_{10}\!\left(\frac{\mathrm{Dens
 Figure 5-figure supplement 1E,pca_exercise_data.csv,compute_pca_from_controls.py,pca_exercise_data_pca_projected.csv,The graph needs to be saved manually.
 Figure 5-figure supplement 1F,pca_exercise_data.csv,recompute_pca_on_all_samples.py,"pca_exercise_data_pca_all_loadings.csv
 pca_exercise_data_pca_all_scores.csv",The graphs are saved as png and eps files.
+Results,,procrustes_pca_similarity.py,,
 Figure 5-figure supplement 1G,pca_exercise_data.csv,pca_with_bootstrapped_ci.py,pca_exercise_data_bootstrap_centroid.csv,The graph needs to be saved manually.
 Appendix 4?table 1 and 2,pca_exercise_data.csv,hotellings_t2_test.py,"hotelling_WT Control_vs_WT Exercise.csv
 hotelling_VPA Control_vs_VPA Exercise.csv",
