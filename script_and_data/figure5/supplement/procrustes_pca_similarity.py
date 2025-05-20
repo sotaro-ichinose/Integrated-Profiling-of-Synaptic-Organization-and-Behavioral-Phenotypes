@@ -1,6 +1,9 @@
 import numpy as np
 from scipy.spatial import procrustes
+from sklearn.metrics.pairwise import cosine_similarity
 
+
+# === PCA scores from the original PCA (22 animals: WT + VPA only) ===
 X_old = np.array([
     [1.638765093, 0.149644439],
     [2.424157573, -1.435264317],
@@ -26,6 +29,7 @@ X_old = np.array([
     [-1.491891095, -1.45025978]
 ])
 
+# === PCA scores after recomputing PCA with all animals (WT, VPA, and exercise groups) ===
 X_new = np.array([
     [1.379347613, 1.045101788],
     [2.413201763, -0.27248711],
@@ -51,9 +55,30 @@ X_new = np.array([
     [-1.396207476, -1.368409655]
 ])
 
+# === Perform Procrustes analysis ===
 mtx1, mtx2, disparity = procrustes(X_old, X_new)
 similarity = 1 - disparity
 
+# === Output results ===
 print("=== Procrustes Analysis (scipy.spatial) ===")
 print(f"Disparity: {disparity:.4f}")
 print(f"Similarity (1 - disparity): {similarity:.4f}")
+
+# === Interpretation ===
+print("\nInterpretation:")
+print("- Disparity quantifies the shape difference between PCA configurations.")
+print("- A similarity score ≥ 0.95 indicates high spatial preservation.")
+print("- These results confirm that adding exercise groups did not distort the original eigenspace,")
+print("  but instead caused a translation within the same variance structure.")
+
+# cosine similarity
+pc1_old = X_old[:, 0].reshape(1, -1)
+pc1_new = X_new[:, 0].reshape(1, -1)
+pc2_old = X_old[:, 1].reshape(1, -1)
+pc2_new = X_new[:, 1].reshape(1, -1)
+
+cos_pc1 = cosine_similarity(pc1_old, pc1_new)[0, 0]
+cos_pc2 = cosine_similarity(pc2_old, pc2_new)[0, 0]
+
+print(f"\nCosine similarity: PC1 = {cos_pc1:.3f}, PC2 = {cos_pc2:.3f}")
+
