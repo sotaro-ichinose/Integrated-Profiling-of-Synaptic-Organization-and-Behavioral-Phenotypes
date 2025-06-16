@@ -42,13 +42,6 @@ Each figure's pipeline is self-contained. See `script_figure_mapping.csv` for a 
 
 ---
 
-## Script-Figure Mapping
-
-For an overview of which scripts and data were used to generate each figure in the manuscript,  
-please refer to [`script_figure_mapping.csv`](./script_figure_mapping.csv).
-
----
-
 ## License
 
 ### 🔹 Code (.py and .ijm)
