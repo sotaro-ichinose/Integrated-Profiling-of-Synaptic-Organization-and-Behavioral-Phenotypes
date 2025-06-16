@@ -1,3 +1,0 @@
-Model,Accuracy_Mean,Accuracy_SD,ROC_AUC_Mean,ROC_AUC_SD,Permutation_Accuracy,Permutation_p_value
-Logistic Regression,0.96,0.07999999999999999,1.0,0.0,0.96,0.000999000999000999
-SVM (RBF Kernel),0.95,0.09999999999999999,1.0,0.0,0.95,0.000999000999000999
