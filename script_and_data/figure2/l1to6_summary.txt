@@ -1,3 +1,0 @@
-dorsal: 11.722 } 2.545
-ventral: 41.222 } 8.992
-p-value (paired t-test): 0.0000
